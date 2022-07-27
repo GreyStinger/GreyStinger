@@ -1,7 +1,5 @@
 <h1 align="center">Welcome To The Home Of Grey!</h1>
 
-<hr>
-
 My names Jayden, I'm a hobbyist developer who has a few projects under construction, I'll finish some soon I'm sure but we all think that don't we..
 
 ### I'm Not Very Active
