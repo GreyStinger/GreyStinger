@@ -1,8 +1,10 @@
-# Welcome!
+<h1 align="center">Welcome To The Home Of Grey!</h1>
 
-Names Jayden, I'm a hobbyist developer who has a few projects under construction, I'll finish some soon I'm sure but we all think that don't we..
+<hr>
 
-### Not Very Active
+My names Jayden, I'm a hobbyist developer who has a few projects under construction, I'll finish some soon I'm sure but we all think that don't we..
+
+### I'm Not Very Active
 
 I'm not active at the moment, and thats mostly due to school not leaving me much free time.
 
@@ -24,3 +26,8 @@ Everything is built with it though so what choice do I have T-T
 <p>
 <a href="https://valid.x86.fr/qs7n8p"><img src="https://valid.x86.fr/cache/banner/qs7n8p-5.png" alt="Specs"/></a>
 </p>
+
+### I don't know what else
+
+Look I really don't know what else to put here,
+I'll whatever whenever it comes to mind.
