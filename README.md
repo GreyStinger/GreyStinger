@@ -10,9 +10,11 @@ I am trying to step up my game slightly though.
 
 ### Some Stats
 
-It pains me to see so much JS, sorry ES dev's, not meant to offend, just not a personal preference. 
+~~It pains me to see so much JS, sorry ES dev's, not meant to offend, just not a personal preference.~~
 
-Everything is built with it though so what choice do I have T-T
+~~Everything is built with it though so what choice do I have T-T~~
+
+Now more low level languages nice :}
 
 #### Github:
 
