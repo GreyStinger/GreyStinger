@@ -1,33 +1,32 @@
-<h1 align="center">Welcome To The Home Of Grey!</h1>
+<h2 align="center">Hey there, I'm Jayden</h2>
 
-My names Jayden, I'm a hobbyist developer who has a few projects under construction, I'll finish some soon I'm sure but we all think that don't we..
+I'm a South African programmer who's been developing software for a few years
+now.
 
-### I'm Not Very Active
+##### More About Me
 
-I'm not active at the moment, and thats mostly due to school not leaving me much free time.
+- I love low level languages and the challenges they bring.
+- Embedded systems are great and optimization workloads are amazingly enjoyable.
+- I enjoy working on, using and contributing to the open source ecosystem.
+- I use <img src="https://raw.githubusercontent.com/GreyStinger/GreyStinger/refs/heads/master/assets/nixos-colorful.svg" alt="nix logo" style="height: 1em; width: 1em; vertical-align: bottom;" /> OS and really ❤️ it
+- Outside of my computer, I enjoy cycling, working out and running fitness wise,
+    and I spend the rest of my time working on conservation projects or at the
+    race track.
 
-I am trying to step up my game slightly though.
+##### Current Goals
+
+- Release the lightweight c/lua webserver/proxy I've been working on.
+- Improve the C and C++ representation on my profile.
+
+### Low Profile activity
+
+My profile has seen less activity as I've been finishing my AS levels for school
+but now that that's done and I'm back things should pick up a bit.
 
 ### Some Stats
 
-~~It pains me to see so much JS, sorry ES dev's, not meant to offend, just not a personal preference.~~
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greystinger&theme=dracula&hide=html,css&layout=compact" alt="Languages"/>
 
-~~Everything is built with it though so what choice do I have T-T~~
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=greystinger&count_private=true&show_icons=true&theme=dracula" alt="Stats"/>-->
 
-Now more low level languages nice :}
 
-#### Github:
-
-<a href="https://github.com/GreyStinger"><img src="https://github-readme-stats.vercel.app/api?username=greystinger&count_private=true&show_icons=true&theme=dracula" alt="Stats"/></a>
-<a href="https://github.com/GreyStinger"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greystinger&theme=dracula&hide=html,css&layout=compact" alt="Languages"/></a>
-
-#### Setup:
-
-<p>
-<a href="https://valid.x86.fr/qs7n8p"><img src="https://valid.x86.fr/cache/banner/qs7n8p-5.png" alt="Specs"/></a>
-</p>
-
-### I don't know what else
-
-Look I really don't know what else to put here,
-I'll whatever whenever it comes to mind.
